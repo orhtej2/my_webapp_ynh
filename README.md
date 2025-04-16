@@ -10,7 +10,7 @@ It shall NOT be edited by hand.
 
 Custom Web app with SFTP access to serve static (HTML, CSS, JS) and PHP files
 
-![Version: 1.0~ynh18](https://img.shields.io/badge/Version-1.0~ynh18-rgba(0,150,0,1)?style=for-the-badge)
+![Version: 1.0~ynh19](https://img.shields.io/badge/Version-1.0~ynh19-rgba(0,150,0,1)?style=for-the-badge)
 
 <div align="center">
 <a href="https://apps.yunohost.org/app/my_webapp"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
